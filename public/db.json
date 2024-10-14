@@ -1,0 +1,10 @@
+
+{
+    "users": [
+      {
+        "name": "test",
+        "email": "test@examly.io",
+        "id": 1
+      }
+    ]
+  }  
